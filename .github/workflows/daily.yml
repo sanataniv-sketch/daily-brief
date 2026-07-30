@@ -1,0 +1,57 @@
+name: Daily Morning Brief
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Bypass the 05:30 ET time guard and run now"
+        type: boolean
+        default: true
+  schedule:
+    # Fires at 09:30 and 10:30 UTC Mon-Fri. The pipeline's DST-aware time
+    # guard lets exactly one of them proceed at 05:30 America/New_York.
+    - cron: "30 9,10 * * 1-5"
+
+concurrency:
+  group: morning-brief
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Produce and publish episode
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
+          FORCE_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.force) && '1' || '' }}
+        run: python -m pipeline.run
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "morning-brief-bot"
+          git config user.email "actions@github.com"
+          git add docs/ state/
+          if git diff --cached --quiet; then
+            echo "No changes to publish (skipped or no new episode)."
+          else
+            git commit -m "episode: $(date -u +%Y-%m-%d)"
+            git push
+          fi
