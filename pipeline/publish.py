@@ -28,7 +28,8 @@ COVER_PATH = DOCS / "cover.png"
 
 
 def _site_base() -> str:
-    return os.environ.get("SITE_BASE_URL", config.SITE_BASE_URL).rstrip("/")
+    # An empty (present-but-blank) env var must fall back to the config default.
+    return (os.environ.get("SITE_BASE_URL") or config.SITE_BASE_URL).rstrip("/")
 
 
 def _cdata(text: str) -> str:

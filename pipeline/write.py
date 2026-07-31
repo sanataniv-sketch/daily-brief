@@ -148,7 +148,10 @@ def _call_gemini(prompt: str, api_key: str) -> dict:
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "temperature": 0.7,
-            "maxOutputTokens": 8192,
+            # gemini-flash-latest is a 2.5 "thinking" model; hidden reasoning
+            # draws from this same budget. Keep it well above (thinking +
+            # ~1,400-word JSON script) so the JSON never truncates mid-object.
+            "maxOutputTokens": 32768,
             "responseMimeType": "application/json",
         },
     }
@@ -166,11 +169,13 @@ def _call_gemini(prompt: str, api_key: str) -> dict:
                 time.sleep(3)
                 continue
             data = resp.json()
-            parts = (
-                data.get("candidates", [{}])[0]
-                .get("content", {})
-                .get("parts", [{}])
-            )
+            cand = (data.get("candidates") or [{}])[0]
+            finish = cand.get("finishReason")
+            if finish == "MAX_TOKENS":
+                last_err = "Gemini hit MAX_TOKENS (script truncated)"
+                time.sleep(3)
+                continue
+            parts = cand.get("content", {}).get("parts", [{}])
             text = "".join(p.get("text", "") for p in parts)
             if not text:
                 last_err = f"empty Gemini response: {json.dumps(data)[:300]}"

@@ -46,7 +46,7 @@ LOOKBACK_HOURS = 24
 TARGET_WORDS = 1400
 # Candidates handed to the LLM per topic (it makes the final 2-3 pick).
 CANDIDATES_PER_TOPIC = 8
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-flash-latest"
 
 # ---------------------------------------------------------------------------
 # Topic order in the episode. Pharma leads (weighted heaviest).
