@@ -35,18 +35,28 @@ def _load_dotenv() -> None:
 
 
 def _time_guard_ok() -> bool:
-    """True if we should run now."""
+    """True if we should run now.
+
+    The cron fires at 09:30 and 10:30 UTC to cover both DST offsets, but
+    GitHub's scheduler is routinely 10-40 min late (and sometimes drops a
+    fire), so a tight wall-clock window silently skipped nearly every real
+    run. Instead we run whenever today's NY-date episode doesn't exist yet:
+    whichever fire lands first produces it, and any later fire that day sees
+    the committed MP3 and no-ops. Delay-proof and can't double-publish.
+    """
     if os.environ.get("FORCE_RUN") == "1":
         return True
-    now = datetime.now(NY)
-    if now.hour == 5 and 25 <= now.minute <= 45:
-        return True
-    print(
-        f"SKIP: not the 05:30 America/New_York window "
-        f"(local now {now:%Y-%m-%d %H:%M %Z}).",
-        flush=True,
-    )
-    return False
+    from . import config
+
+    date_str = datetime.now(NY).strftime("%Y-%m-%d")
+    mp3_path = ROOT / "docs" / config.EPISODES_DIR_REL / f"{date_str}.mp3"
+    if mp3_path.exists():
+        print(
+            f"SKIP: today's episode already exists ({mp3_path.name}).",
+            flush=True,
+        )
+        return False
+    return True
 
 
 def _produce() -> dict:
