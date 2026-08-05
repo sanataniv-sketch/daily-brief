@@ -1,60 +1,50 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-05",
   "selected": [
     {
       "topic": "pharma",
-      "title": "Apnimed\u2019s IPO Bags $192M for What Could Become the First Oral Sleep Apnea Drug",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU3FUM0QwWFhrTElERDJwWU0zUThtUDJ2WkdWT1M3S2psY2F0U2NhYUc3bWpWSVlIa1NUYkZ6VHdnQkNlUUo0QTV5cUo5TWZ5QWI0TVhpQnQzYzNmM29YVUxVT1A5eXpmM1oyUzl6SXpBdkZHTTB6cFJIM0xOR3dtSFh6V19laEZ1VzdGRDFDQ0lJZktWZDJ1a1RRVC0yWk12UFBOT0g2VnBONzZXVGdN?oc=5"
+      "title": "FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms",
+      "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms"
     },
     {
       "topic": "pharma",
-      "title": "SFDA approves first daily oral weight-loss drug for adults with obesity",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSUZPUnZocFhMcXFTWlcwX3QxMmhmSGNVeXN1WE1IUzhxNkQ5aE1BNVlnVzhIOW5qYW55aUFlR2RlTi1IZGFoSnB4a0FUa1RoMGhsWTFNSmdHNmI0elBNV0JEZmZPOFg0SzhpNzIzLVVBelBIa0JkcEhUbGhmRURBeWUzU0NVQ2FHbjkxelFJZWhuVXRrUGdjMktqWEE3R244ZEVZT09wNkdyUDhUUmducm9ueldFUGlB?oc=5"
+      "title": "America Must Address Early Clinical Development",
+      "link": "http://www.fda.gov/news-events/fda-voices/america-must-address-early-clinical-development"
     },
     {
-      "topic": "pharma",
-      "title": "Retina specialists weigh in on FDA approval of bevacizumab-vikg (Lytenava) for wet AMD",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcm1NSkE4Uk1Oa3NHRjl6YnBVS1IyNTZRS3VzcDY0VFRpcldGczdSVDRlMU5xWk9pUm4ydUh6dzRVYzRsMWgxSjlrOV9WUVlIYmE4dXZmTU9lOXJyZWowZTUyRnluZEpiSjVUcUNvX3dBWExLMmJmeWxKRXM5YUxKMlZISXBJT3ZuY2t6Y0pVbHR4UXlCeHljeWs5SGpnNHhDajU0amVWWjlybTJob1RRaTZIdXV1MERsYVAxNF9MdVljUQ?oc=5"
+      "topic": "economy",
+      "title": "Fed's Kashkari says central bank should raise interest rates now to avoid 'entrenched inflation problem' - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV_5..."
     },
     {
-      "topic": "macro",
-      "title": "Fed Weighs Cutting Regular FOMC Meetings to Six From Eight a Year",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyY1E3eEZwUjN4Y0ZiTnlTRVhSWk5UOURpNTJaT0N0Nm9uSUlzTDNOVkxva0QxaExRTzFlOENTNURpWG5mSzJyd0FaNjdlOUY4NC1LSQ?oc=5"
-    },
-    {
-      "topic": "macro",
-      "title": "US Fed dissenters call for rate hikes over sustained inflation",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzQyN0dnci1zY1JYQW1yUURGTlYwZkRLVUg0REprUmpPclJrbi1yeWQ4VkhEOWFxMTYyTGVfbHJYVElnNktjNTAzQzBucDUzSVR1YU1kd25zWmpRaFp2Z05HWGFLQkFtcExYY2phRjY0VWFMd1VKZlpsMnhKOUREal9MYWNSZHkxSDRmRFNwZjNRaXZycEl0ZnZzbVA0X2E2Qkt4SGVYZUt2QWItamc?oc=5"
+      "topic": "economy",
+      "title": "U.S. says Strait of Hormuz is \u2018free and open\u2019 as Bessent signals deal with Iran is close - CNBC Africa",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV_5..."
     },
     {
       "topic": "ai",
-      "title": "OpenAI\u2019s Astra solves 10 long-open math problems and publishes the proofs",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGRDNFRzWTJBNkRqM1FVWlFnSUlRc1RQbHV5S19ZdnQ4UkVwT0NrLUdvYzZ6ZDYxVmRLQXAyNWlUYUlxaTNSSG9JQ2JtZXFmbDRGUWJIRWFac3NfZG11dXNtaTZENzFTVzJfYnR6Tlc4VnYtXzI1dDEzUFhteE5LdTZTNmFZMU1yMGFnV1lGZWFyMm5KUHNtQVg2UC1yc3AzQUFR?oc=5"
+      "title": "4 of Google\u2019s Top AI Brains Are Leaving\u2014and Launching Their Own AI Startup - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lx..."
     },
     {
       "topic": "ai",
-      "title": "OpenAI agrees to independent review of agents\u2019 Hugging Face hacking incident",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTFteHliUGlrVDlpRmY5dkoxSDB4dUtkSXAtaFVlams2Z1VkYjBNTkNSaXFrVzlGVndWZ2xaSVhYdjVqZGpldWlKTFVZTy1BOWZMS0JGQUtFa05ZaDBwM1l3R2lqcmc3TktCcWZ0eEJWS0ZneUc5MktNX0F3b2tMamVPelZ6ZlZwSWtTMnRWTkd4WjZsSHA3X3AyalNPWmd1TzktRHZnN3ZqMzVnWmhpWnJUb3Vjcmc?oc=5"
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
     },
     {
       "topic": "startups",
-      "title": "a16z\u2019s Marc Andreessen Calls Proposed Developer Liability Rule In The CLARITY Act A 'Kill Shot To The Industry'",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVnZiZFE3OXo1Rlc3c1hNWG5aQzJydGVaa0V4bmZxOGNjX250QVJGYVdrN0xmQlpEcS1uU3ZzaW5TMHU1c3FYUTBzWGd1cl9oM0QxMmxqSUl6ZUtsRTZDQnlZeURFTzNwNjZQem9pRDBXT2ViSWVCVTBhaTA5SDN6dllIdGFBOHp0cXoxYXl2MTlJUWlHNmhVaTFtR0lTXzdOQmFLX1FCTEpnbGFEbzhqN2NoUnBfRHdITXVKcHFDbDc0bldIMUEzYjdhb2Y2RExDVWNsZzJHS1NtNVliSTZWeEg5WGVpVE5mS0l3Z1NvSnJzaGVucEV4UEhjbVBVSGPSAYQCQVVfeXFMUEgxUzJDb1M0SHZUd0FHMmlRR1JPNE1rVE9ONVNzaWN5TlgwYk5FOXZLRmRDRWFCbDhxNGZIeTlCdHVEYmRwMnk4ZGRkemcycGNGYkxiS2Nob25mZm1CalMzbmxYbzRPZUluNkNudnpCWFBNbU54V3kzWGVBTWxiZFduUWx0bjdnbFVTblZSaUhjQTRva3pmRG1hblg5RFpTVExOQ0N6aDExeFJuZTRBdE1meVUwVnVjT1VUdGt0U3R3Y0JtVlV2dWp5UHhrV1c3aUZGaDR0R3R4OVVNWkVSNnp5d2ptYlAwNXRlZ2FiZlFlNXdqZjd4M1ZRcm1xRWhMc0hDMlk?oc=5"
-    },
-    {
-      "topic": "startups",
-      "title": "The global memory shortage hits the MacBook Air",
-      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
+      "title": "Robinhood\u2019s New Fund Lets Anyone Invest in Y Combinator Startups, With a Catch - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV_5..."
     },
     {
       "topic": "creative",
-      "title": "A First Look at Nike and Zellerfeld\u2019s 3D-Printed Air Works Prototype",
-      "link": "https://hypebeast.com/2026/8/a-first-look-at-nike-and-zellerfelds-3d-printed-air-works-prototype"
+      "title": "OiiOii AI Launches AI Music Video Creator That Turns Songs Into Fully Produced Music Videos in Minutes - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV_5..."
     },
     {
       "topic": "creative",
-      "title": "'Barbie 2' Stalls as Warner Bros. Nixes Salary Increases for Margot Robbie and Ryan Gosling",
-      "link": "https://hypebeast.com/2026/8/barbie-2-negotiations-stall-as-salary-dispute-delays-sequel-development-david-zaslav-refuses-margot-robbie-ryan-gosling"
+      "title": "Reddit is introducing a new moderator: AI",
+      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
     }
   ]
 }
