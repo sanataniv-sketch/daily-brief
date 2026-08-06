@@ -1,50 +1,55 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "selected": [
     {
       "topic": "pharma",
-      "title": "FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms",
-      "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms"
+      "title": "FDA Accepts daraxonrasib Application for RAS-Mutant Pancreatic Cancer",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHF5VlJQX2RCVUI0djFsbG5GS2NZRXJXQlZwY3R0OE90cHNwSDZTQzFMbVlxTG83eHVYZUdjUk1wdDA3SGVKUzBhZ24wYzJmdUpTN25jbXhDRmozaU5HdTg4eThhY2xxcXAxdndHZGRvWUNFMC0yRkk3MkNJemFual8xMnZ6RTVZT2lWUTFQR3ZncTVVX1QzSW5hQldwTWJ4bUZEdDlKZUM0S2ZGV0VGQmowbw?oc=5"
     },
     {
       "topic": "pharma",
-      "title": "America Must Address Early Clinical Development",
-      "link": "http://www.fda.gov/news-events/fda-voices/america-must-address-early-clinical-development"
+      "title": "Intracranial delivery of B7-H3-targeting CAR-T cells for recurrent glioblastoma: a phase 1 trial",
+      "link": "https://www.nature.com/articles/s41591-026-04557-6"
+    },
+    {
+      "topic": "pharma",
+      "title": "Vedanta gets $60M to finish Phase 3 for C. diff microbiome therapy",
+      "link": "https://endpoints.news/vedanta-gets-60m-to-finish-phase-3-for-c-diff-microbiome-therapy/"
     },
     {
       "topic": "economy",
-      "title": "Fed's Kashkari says central bank should raise interest rates now to avoid 'entrenched inflation problem' - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV_5..."
-    },
-    {
-      "topic": "economy",
-      "title": "U.S. says Strait of Hormuz is \u2018free and open\u2019 as Bessent signals deal with Iran is close - CNBC Africa",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV_5..."
+      "title": "US Fed Governor Lisa Cook says prepared to back rate hikes if inflation fails to ease",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzBkdzBZN0JBWW90TUtnMU1wMUswaHdYSmV2Tk9EQ25SUkd6a2wzV1RNMkZ5Z1AwYkZobTBDTHczZ0RtWUM1WlZaUHdxWGpON3R6bk5mNWNfSDhuS09jT1NUdmV0MDdHV1M1VS1XRXI3S0xvenJSVkRHZUY0UUNVREdKZmRFMVdoYVNFZ3ZibDVzdVlYTVNJUl9WT19QUlJyNE1Fa1JaOWt6U0dxcU9td010QkJHdzRsZVJuaFNBajUwQnRsVE9xZQ?oc=5"
     },
     {
       "topic": "ai",
-      "title": "4 of Google\u2019s Top AI Brains Are Leaving\u2014and Launching Their Own AI Startup - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lx..."
+      "title": "Gemini Leadership Reshuffle Unfolds Overnight \u2013 Chief Scientist Exits With 3 Top Experts to Launch New Startup",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UTGwxcldIZjBoQTd4Z3hiY2JGb2VCQXZlMlpqRjh2SnpQYjhLV21iLWttN0lqaWxaa19HSm9vRU1aR1dSWVFwU2w5QjRZLTd3S1ZN?oc=5"
     },
     {
       "topic": "ai",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+      "title": "OpenAI Launches AI Services Outsourcing Company",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenNNYjRwNnJJT0VoUjh0bFE2VUhIYWNONjF0TlIxVEhfdGd2eVlRT2xKWm13SkY1N2ZuSnBhdGoyZFRBb3dUTUNoTjZsSEtWb05nZ0s1RlFZS1JnWTZ0cU9DMU4tTS1jSld6UmdsbTl2NXNUcmcxSG0xdmFpX01DOXJ1QnNfZnFVdTJhaHhSX2VJUlJ3NXJzVFhVWF9Tem9qYkpndjktUVA4QQ?oc=5"
     },
     {
       "topic": "startups",
-      "title": "Robinhood\u2019s New Fund Lets Anyone Invest in Y Combinator Startups, With a Catch - inc.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV_5..."
+      "title": "Convex Raises $57M Series B to Expand AI Software Infrastructure",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeElKZ3I3MzB5ODJvR2tfcEFtYTJVbGExdEtRT1M4TVhUMDBFcmcwWFdLYkJraFZSMVpXWlYwRFVmYzVyNmpLUENZYmpOdmF3V3dDMjAzVFprQzRQNTRMdS1IR1VucTFPYkZsZ1NTa2RFZXVLRHhITExaSl9FVHhtcmQxTXZjZ1hrUHpuTFIxTzJtYnR4RENkc2lfUlFyaVppbkw2MA?oc=5"
+    },
+    {
+      "topic": "startups",
+      "title": "Eliza is dead: Founder blames lawsuits, endless complaining for foundation shutdown",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZ3RVZUl2X2ttcVk5ZFd4Q1hHZkJBUnI4NlE3TnhiT25fbDRETGFoTklYVk5HcXc3LWFjUDRqQlVrM083NUFEY2E1TVBCQV91ZTY5Z1J6NG1FUQ?oc=5"
     },
     {
       "topic": "creative",
-      "title": "OiiOii AI Launches AI Music Video Creator That Turns Songs Into Fully Produced Music Videos in Minutes - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV_5..."
+      "title": "Netflix Launches India Creator Initiative As Ted Sarandos Bets Big On Local Content, AI",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkZMckU5REM3QUlVZW5qUVZoSUcwdXRFdTBYNldDWVE2VWpaNThMSlZPMWxXNTlzQUdTRUtWNHVfOWoteGZYT2dIQVlIX2cwQUR0VndwTjVkdGV4enJIbkxkVE42M2dreXI1M1ZDZUVRUkVxbmNTVnkzaFVPSy1GLUtHVkRDbktMZ0gxZUdrRWpiaEVOdHNrdDVsb1lFSmZCT3pCZkh6OWdid2JEcUpr?oc=5"
     },
     {
       "topic": "creative",
-      "title": "Reddit is introducing a new moderator: AI",
-      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
+      "title": "Kojima Productions and km5 Turn the 'Death Stranding' BB Pod Into a Wireless CD Player",
+      "link": "https://hypebeast.com/2026/8/km5-instant-disc-audio-cp1-death-stranding-2-edition"
     }
   ]
 }
