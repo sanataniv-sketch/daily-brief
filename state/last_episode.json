@@ -1,45 +1,50 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-10",
   "selected": [
     {
       "topic": "pharma",
-      "title": "FDA Approves New Engineered Viral Immunotherapy for Patients with Treatment-Resistant Advanced Melanoma",
-      "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma"
+      "title": "Obinutuzumab \u03b2 for aquaporin-4-positive neuromyelitis optica spectrum disorder: a phase 3 randomized controlled trial",
+      "link": "https://www.nature.com/articles/s41591-026-04583-4"
     },
     {
       "topic": "pharma",
-      "title": "Pacific Biosciences Earnings Call: Growth Amid Headwinds",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONVVrM2lCYlBQSHdqOWhTc2U2d2ZrY0tpZ3NIdWFqMTdBTWtPYlFqOU43S0FoeWJUNGxYdEhqdVJpbDF1NGdRTk1VZjB0LUJJaWxlX0t0RU1RQm5mWmVJc1ZSYy0weWoyWGlZODllazZHNHNNblRrVm5TMWZwaGRCdEt0dWRBLVpfb0JHQkZUSlFjSFdpMmpWVTJCRHJXdW9EcE9laE1fVUdCdlU?oc=5"
+      "title": "FDA Approves First Orexin-Targeting Narcolepsy Type 1 Drug",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzI5YVRnOUJ6VVBPeEtMYmloNzdtS1lkUmtRUlFWSDhTTXZMRUtGQS0wblRlTmxOTVBYQVFXMEZSUmVOU1FkckgyRHdJUmFWdTNkYUJPUWJ4MllvaXVOS1VOcG9KRXBTZFhQQTNUWWVYOUlpYWN4a09hZC1pZ3loNVBfX29TeS0wdm50MDFFVVdDZTlYVTdHUndkS2JBelNOalE?oc=5"
     },
     {
       "topic": "pharma",
-      "title": "US firm takes on backyard mosquitoes -- with 600,000 mosquitoes",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjBwNm9lc1UzM2ZhcENRekYtcUt0SU5VZ1A1R0h5bGZ5NExwTU9mSENGX3B1NHZNaXNkeU8zczA5a0Fad19ybHpiUlFVZnJuUXhOVVVYUzFMUEZ3YTBFRU9STVoxYzYzNm43QmNjbl81WVhpWktUZ2ZZanRPZnh3S200MkZkY3JTRFE?oc=5"
+      "title": "Lessons from deploying the ChatEHR system at Stanford Medicine",
+      "link": "https://www.nature.com/articles/s41591-026-04574-5"
     },
     {
-      "topic": "economy",
-      "title": "Fed holds rates amid split vote as Warsh pares guidance; yields rise and inflation credibility questioned",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObGREZDJsYUpvV29BV2M2ZFNiYVdoa2liZndHTVM3RXlTSUpzS3VseVhmQ19OWTFJWEtXZU82RjQ0eTN4Y2RVQ0JpZVNxZXJGSjFnS21zY3BJRFl1TE9WbDZnSlRNZF9qcE1UcEpoMkkzQU9PR0l0Rkd3MUYyVncxeFJLSTRpUTl1bHA4aU9OYTAwWnd1NXFpQkRiWGpGYWF6ZDZLdUFsbTJIWU56dmplUXptNTF3eEV6MUpxUGlWaW1qcVptQk12U1lBc3Y1VkdmbnFVNFBDSThHVFlQVVc3eXJPcmI?oc=5"
-    },
-    {
-      "topic": "ai",
-      "title": "Does FLAIR super-resolution erase or hallucinate small white-matter lesions?",
-      "link": "https://arxiv.org/abs/2608.06311v1"
+      "topic": "macro",
+      "title": "New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets.",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNc0hWVGJRRmNmbmluVU5OUE8yTEY4RFpMQTFpeEhyZ1VtVk9qOXZZc09UY2Y3Z0llamFJcmloblZmNUg4VmduNDZycDNvbEJZeDQ3RExoMUt3M0RHWV9kT1hHanR2d1BhY0YxMXV4dEtRTUNKbkdqNVVYWnhGOW1fblQxUFRaQXZnUWNXZWprTzBIWjBWaEJ2UWpWRDlKZkZtWEFERW5MellaNVBNUnFfT0NvbGkydC00Rk1Fdk1jZWRFc1c2cUJJLW5TRkZrT0d5eDQ4N2hBc2dDakpBYjNTZFA3OVRKTHVxaFRQQUZ4YzVvcXYyTFFQY3h4LTMxQ3pFLTRhRWhfcG9oeDAyV2hTT0t3QVYzZkpERC15cGlsU0d0aUxHMGJJOUpB?oc=5"
     },
     {
       "topic": "ai",
-      "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
-      "link": "https://arxiv.org/abs/2608.06301v1"
+      "title": "OpenAI Suspends Unreleased Astra AI Model After It Reaches \u2018Critical\u2019 Cyber Capability Threshold",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeG9UUXhEcDZLZFB1aU9wWDdtall6Tkx2Tml0MnF2blhZcTdqbWdvOFVrQ3diRFB0SnpubHN2c2JPRlRnQVpybG50WmdHSXBwa2h1UVZTUy1IaThhRmI2Q1UwczdQb2FFODlETmNqa0FjR0xJdWt6Q0ZrNHVwQ1VSWk12R0xxTzlRWGt2Mw?oc=5"
+    },
+    {
+      "topic": "ai",
+      "title": "Mark Zuckerberg Says Meta Will Release Weights of Muse Spark 1.2, Announces 30B Muse Glimmer Model For Local Use",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd29GcUVFWXV4c0FJSmw2V2RtZm1RbnBsdDNSTXkzOVNGanpNR1FPRWpEekxiSk0tM2JyZHBleGVRTWo1ZmJGWmhsZld0WEFucmVmRmIwbTlmallCYjVNOU9UOXVBY25PQXA3MFE1VmpwTHdDVFQ5aHZtSFNPNW1WYU5jcVFFb2Vyd1JMXzB1bU9yRkRrSmdBRmJHandKVEtFWTg4SFRZSTlNOVotdlNvOEpjUkVZTHNraWFwMG5fTnF4bngydGJiby05MzNBdXl3Z1Q4MQ?oc=5"
     },
     {
       "topic": "startups",
-      "title": "A California startup won approval to launch a 59-foot mirror into orbit that beams sunlight to a chosen spot on Earth, helping crews work after dark",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeXpxYWg3QmFQZ3MyY29PWEY1NF9pS0NGaW5VTHdDWWNIMm9aZTlwT3lWY21OVnNMdno2dldPdmtwSmc1X2IycWtaWFpZaG05ZmUyZU11SFlWWXNBMTNtS3ZIOXFsbW5oam51N3ZsZmFHY20xR1JPZldwRjRMVS16NnZGX1lNTzBuV1VmS0tNZmYzMnhlQnNYb3dJZEZHUUlXZndlblNtbXJ6QkJuUHRDM3JwcTRkWGVkU1JvVnBScFNDdUxPa0xRTVFaejk2T0EtdGNwbDZscVV0ZHUwY0NSUDFCTGg4OVlCal9yWGROMGdxVVNfdDZnVUEyamtxV1BhVzZKc3FUeXhrWkhKRQ?oc=5"
+      "title": "Prime Agent",
+      "link": "https://www.producthunt.com/products/prime-intellect"
+    },
+    {
+      "topic": "startups",
+      "title": "Cambridge Aerospace raises $300M at $3.4B valuation to scale low-cost air defence",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjFrbzNqcjBOQjlVenIzTHZQbnpUVUdaM2haSUs1MlBoYzExZ2lTazdmQUJOV01wVzNZRTJYaFo4cFFsMUJDX0tLQ2FxN3dkVkRvbm9jUllWX3BEcHg3MUVkMGlmNlpScC1vd3hIazB4MXo3dWhDYklwb1A3amlJelE0SUE2VEc2eGhhQU1WMlZsRDJyRF9kdzNqQkFQM3hkZ2Z0UzZrWnp3QWFW?oc=5"
     },
     {
       "topic": "creative",
-      "title": "YouTube Launches AI Image-to-Video Feature for Shorts",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2lXUmYyRkVwbGpBR2N6ZTVFZE1RTXVDb0lEaklnMWhUQkpQS3hwMDg3UFpfclQxZ0lOclBPOTExTU8tOU1IUVBNdTlSTWtzU2h4c3pQMDhEYVAyRXlNM084QVdEM0U5OEdUVUJPS2pRS0pNRUpmYzlodERmWk80dWhMSmt3Q1BGVm5DVTdkQVFKU3NXc0E?oc=5"
+      "title": "PixVerse launches global AI film competition",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjY1VnpxYkp5QnRWaVJNQXc2QlphQkxkZ2lOT3QzYWJRWDMzLTlKRktQY0JyazctRjlIWHQ2WXExMFBNSWZhSW1KWVc1QWNpNjBibWhTZVk1bzJ3Vml0bFd6NjZsUFFMcTNjZ2dFaUVYYWE1T056bWJxdTRmaDcxNXZhZk9XUnhGNV81dldzOHdDVFAzSnp4aGJ3?oc=5"
     }
   ]
 }
