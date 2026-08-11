@@ -1,50 +1,55 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "selected": [
     {
       "topic": "pharma",
-      "title": "Obinutuzumab \u03b2 for aquaporin-4-positive neuromyelitis optica spectrum disorder: a phase 3 randomized controlled trial",
-      "link": "https://www.nature.com/articles/s41591-026-04583-4"
+      "title": "A Modified Herpes Virus Injected into Tumors Wins FDA Approval for Advanced Melanoma",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV_5cUxPdFdqUnBRZGJReHNySTRDWGV6WFl3UXVyenlmcnhKUHgxVXhScVFtcFJFR1Zwb04zbjJ1eUtaVFVsTURlb3lVTzN1enFrMm1oSy1LMEctTUROM1o1V1N5RUNWMkY5UjZpbUh2ZGh6R0NDd0tGeUlTY1E4b1ZoNHYxelM3Q1VuVzJBQmxVYTAxZDF3bkpOLVZsaDFmMA?oc=5"
     },
     {
       "topic": "pharma",
-      "title": "FDA Approves First Orexin-Targeting Narcolepsy Type 1 Drug",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzI5YVRnOUJ6VVBPeEtMYmloNzdtS1lkUmtRUlFWSDhTTXZMRUtGQS0wblRlTmxOTVBYQVFXMEZSUmVOU1FkckgyRHdJUmFWdTNkYUJPUWJ4MllvaXVOS1VOcG9KRXBTZFhQQTNUWWVYOUlpYWN4a09hZC1pZ3loNVBfX29TeS0wdm50MDFFVVdDZTlYVTdHUndkS2JBelNOalE?oc=5"
+      "title": "The First mRNA Flu Vaccine Is Approved, and What Changes for Patients Is Not Simply Another Shot Option",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV_5cUxNUGhicnJDbC1Ia24wRmxGY1FDQXJyTl9YMkh3dlRtTU5RYkVZV1FmN0o2QmtTNC1SeWdpRTdEV0NIdVBDd0NBTFJOQTNiaW1UeGpGZ1BYbG1VSm95WFlJdUJCbFhYSWtrSmRDU2xLM2ZIVE12VTg5V2xMNnRvUVdZN3ZRRFJuU1pCWWdYSGxfNkt2ZFJESXhV?oc=5"
     },
     {
       "topic": "pharma",
-      "title": "Lessons from deploying the ChatEHR system at Stanford Medicine",
-      "link": "https://www.nature.com/articles/s41591-026-04574-5"
+      "title": "Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer",
+      "link": "https://www.nature.com/articles/s41591-026-04537-w"
     },
     {
-      "topic": "macro",
-      "title": "New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets.",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNc0hWVGJRRmNmbmluVU5OUE8yTEY4RFpMQTFpeEhyZ1VtVk9qOXZZc09UY2Y3Z0llamFJcmloblZmNUg4VmduNDZycDNvbEJZeDQ3RExoMUt3M0RHWV9kT1hHanR2d1BhY0YxMXV4dEtRTUNKbkdqNVVYWnhGOW1fblQxUFRaQXZnUWNXZWprTzBIWjBWaEJ2UWpWRDlKZkZtWEFERW5MellaNVBNUnFfT0NvbGkydC00Rk1Fdk1jZWRFc1c2cUJJLW5TRkZrT0d5eDQ4N2hBc2dDakpBYjNTZFA3OVRKTHVxaFRQQUZ4YzVvcXYyTFFQY3h4LTMxQ3pFLTRhRWhfcG9oeDAyV2hTT0t3QVYzZkpERC15cGlsU0d0aUxHMGJJOUpB?oc=5"
+      "topic": "economy",
+      "title": "RBA Holds Rate Steady for Second Straight Meeting, Warns Inflation May Not Hit Target Until 2028",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9US1ZPb1RPUnFxeVp1MFAwQnF0dG12VFFBRVdYOHdwVXpNd29FYmthYnV0ZE1nN0lOU25zRklLYl92NENwVUNLcGZTd3NpZGdhOHRFVEk4RVNCWHJ2aTJWOFFYUDJqejIzRlNKVDRhcjM3N21xeUE?oc=5"
+    },
+    {
+      "topic": "economy",
+      "title": "UNIFI Communications, Syrian Telecom, and CYTA Sign Landmark UGARIT 2 Submarine Cable Agreement",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV_5cUxOVDRqSWp6cHUzbklMLWNlOTc1ZTJBTGRfN1M1cU5KQ0FGa1l1SkRYel92X1pTdVBoeVdqMFlxLVhHUnFUb3V0Q3o2eVRGT1VZT3VoNGpQSEZpRUlWbU9wQ2pKb2ZlblFhTFpZcHdJMGNvSjVtLUl2c0IyWEpSRmcxRk9UUE9Denpfdi0tSTRfOTluZjU4UldJTTRiMWQ3SGpNbHpKMEFXS1VwU3c1WWFNeFRDX3VhQVhGM2prSDdRYVA5MDJZRVlZNUc1U0M5TkdtOGNLVkZxU3l1NHFNRGZPdElMZVU4N0dOQmlRRkVUX1JMTFNMckJvNGtaclNkZF93S2VCdkgyRHNIZkF5MXQzOFE5ZDBsSUE4TmRMVjFfSUoteEZnM1NyNHNNckHSRT9ZaEJ6WTJhTU9kV1JRV0kzd1p0OUFFR3EzWlE?oc=5"
     },
     {
       "topic": "ai",
-      "title": "OpenAI Suspends Unreleased Astra AI Model After It Reaches \u2018Critical\u2019 Cyber Capability Threshold",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeG9UUXhEcDZLZFB1aU9wWDdtall6Tkx2Tml0MnF2blhZcTdqbWdvOFVrQ3diRFB0SnpubHN2c2JPRlRnQVpybG50WmdHSXBwa2h1UVZTUy1IaThhRmI2Q1UwczdQb2FFODlETmNqa0FjR0xJdWt6Q0ZrNHVwQ1VSWk12R0xxTzlRWGt2Mw?oc=5"
+      "title": "Stanford AI Creates Synthetic Viruses in Research First",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV_5cUxNS3FLeExqd1NtZUlPc29tZ0trMnhSM2dLZE5rb29pYUZNLUFKenpfaXowbTFkQmNUdkExLVVNRUlTbkw5eko1UktySlRNZDExcXA1MzI1NWlENk55N01FOGQ4VlNlQ2NNNENyYzM3V3F5djh5YmZhQno3Z0N6UE90MWl6QzRKX0Q2RFdfWUJGcGRIaGxlNmc?oc=5"
     },
     {
       "topic": "ai",
-      "title": "Mark Zuckerberg Says Meta Will Release Weights of Muse Spark 1.2, Announces 30B Muse Glimmer Model For Local Use",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd29GcUVFWXV4c0FJSmw2V2RtZm1RbnBsdDNSTXkzOVNGanpNR1FPRWpEekxiSk0tM2JyZHBleGVRTWo1ZmJGWmhsZld0WEFucmVmRmIwbTlmallCYjVNOU9UOXVBY25PQXA3MFE1VmpwTHdDVFQ5aHZtSFNPNW1WYU5jcVFFb2Vyd1JMXzB1bU9yRkRrSmdBRmJHandKVEtFWTg4SFRZSTlNOVotdlNvOEpjUkVZTHNraWFwMG5fTnF4bngydGJiby05MzNBdXl3Z1Q4MQ?oc=5"
+      "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+      "link": "https://arxiv.org/abs/2608.09902v1"
     },
     {
       "topic": "startups",
-      "title": "Prime Agent",
-      "link": "https://www.producthunt.com/products/prime-intellect"
+      "title": "Canton Network Raises $355M From a16z and Abu Dhabi Fund",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV_5cUxNcjVweGFmRmFCMUdzM3V6bUVMSEFPcVF5dGhvQWI5WURtVk5YbVFTOUZ4ckNxR0JQazE2NzJUM3JLdkhaSmh3a3g0UlJSZUp5d1lETUY4WVhwVmVCUU1IajNNOVl1N09DMVMzUWF2N2pNU2dvTk9yZGtwQzY2bDU2M1lPUVF6WjBLckllVjA9UERkdHBXSU1JRks5Sld1dmF4ZFpwcS1B?oc=5"
     },
     {
       "topic": "startups",
-      "title": "Cambridge Aerospace raises $300M at $3.4B valuation to scale low-cost air defence",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjFrbzNqcjBOQjlVenIzTHZQbnpUVUdaM2haSUs1MlBoYzExZ2lTazdmQUJOV01wVzNZRTJYaFo4cFFsMUJDX0tLQ2FxN3dkVkRvbm9jUllWX3BEcHg3MUVkMGlmNlpScC1vd3hIazB4MXo3dWhDYklwb1A3amlJelE0SUE2VEc2eGhhQU1WMlZsRDJyRF9kdzNqQkFQM3hkZ2Z0UzZrWnp3QWFW?oc=5"
+      "title": "Discovered Materials Raises $9M Seed to Hunt Cooler Chip Materials With AI Agents",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QbHV6YW1VeEphVnpUSmE2QlRldk9odFpGZVotLUw1WWxvbUxmT01zTEp4OWpDUWI4LTdTUlJkYm5ITmJhaWNkNW9FUGhIN1NUWnZj?oc=5"
     },
     {
       "topic": "creative",
-      "title": "PixVerse launches global AI film competition",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjY1VnpxYkp5QnRWaVJNQXc2QlphQkxkZ2lOT3QzYWJRWDMzLTlKRktQY0JyazctRjlIWHQ2WXExMFBNSWZhSW1KWVc1QWNpNjBibWhTZVk1bzJ3Vml0bFd6NjZsUFFMcTNjZ2dFaUVYYWE1T056bWJxdTRmaDcxNXZhZk9XUnhGNV81dldzOHdDVFAzSnp4aGJ3?oc=5"
+      "title": "Danny Boyle\u2019s Rupert Murdoch Feature 'Ink' Sets Winter Theatrical Debut Ahead of Netflix Release",
+      "link": "https://hypebeast.com/2026/8/danny-boyles-rupert-murdoch-feature-ink-sets-winter-theatrical-debut-netflix-release-info"
     }
   ]
 }
