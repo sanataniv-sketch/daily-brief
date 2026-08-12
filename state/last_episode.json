@@ -1,55 +1,60 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "selected": [
     {
       "topic": "pharma",
-      "title": "A Modified Herpes Virus Injected into Tumors Wins FDA Approval for Advanced Melanoma",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV_5cUxPdFdqUnBRZGJReHNySTRDWGV6WFl3UXVyenlmcnhKUHgxVXhScVFtcFJFR1Zwb04zbjJ1eUtaVFVsTURlb3lVTzN1enFrMm1oSy1LMEctTUROM1o1V1N5RUNWMkY5UjZpbUh2ZGh6R0NDd0tGeUlTY1E4b1ZoNHYxelM3Q1VuVzJBQmxVYTAxZDF3bkpOLVZsaDFmMA?oc=5"
+      "title": "First-line PD-1/VEGF bispecific antibody plus chemotherapy in triple-negative breast cancer: a phase 2 trial",
+      "link": "https://www.nature.com/articles/s41591-026-04564-7"
     },
     {
       "topic": "pharma",
-      "title": "The First mRNA Flu Vaccine Is Approved, and What Changes for Patients Is Not Simply Another Shot Option",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV_5cUxNUGhicnJDbC1Ia24wRmxGY1FDQXJyTl9YMkh3dlRtTU5RYkVZV1FmN0o2QmtTNC1SeWdpRTdEV0NIdVBDd0NBTFJOQTNiaW1UeGpGZ1BYbG1VSm95WFlJdUJCbFhYSWtrSmRDU2xLM2ZIVE12VTg5V2xMNnRvUVdZN3ZRRFJuU1pCWWdYSGxfNkt2ZFJESXhV?oc=5"
+      "title": "Vaderis lands $152m and opens Phase III in rare bleeding disorder",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa21iXzA2UU9QOXh1cW10ZWlTUjVmSEx6SnBDY2ZIMjV1dTVsRDVWeGhZbUFORUJjYUlWR3AtdWhsM1hTTTNLWUxOY3M2UUNtWGJpSWVuc0JTTXZrSVkyZE9qUEFuMW56Si02NjZ6UUhiNjY3VzBoZHhLUFJ4c3FTYXdIRGw3cUp5c19OSzROcS1hYU5lMzFBWlo4aEE5WVVMWEVZUncxbzFmUXRpc0xNMDM1MmZLd1o3VkZiMnNGUWhwblotWkE?oc=5"
     },
     {
       "topic": "pharma",
-      "title": "Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer",
-      "link": "https://www.nature.com/articles/s41591-026-04537-w"
+      "title": "Predictions realized: Regulators and enforcement authorities dial up the heat on prediction markets while event contracts expand into clinical trial outcomes and FDA approvals",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0NFaTYxR1YtUHFQUWZqWEdlV1dtUWFtbEFRS2Z0Z1ZHWEdVdU1kejdscUIxMU1aQjlwMFJvZmtNU2NTOVJqbm1WS1NJNG9LZi1ZNTJfWEZPZGNrTHFxWEHFX1pfXzFkdW1BNVRsZktPc0twU1R2d2hBVnRPTHM2X2Z0QV92aEtSaGp2aVZ0R2stdXRzaWdfenhWajJHR1NIdVBtZ19KeDhUUzFrYUhwQWNXMkFXek96TTQ1Tlc2NHJ6d1ljTFVleGZvdmNPSUk?oc=5"
     },
     {
-      "topic": "economy",
-      "title": "RBA Holds Rate Steady for Second Straight Meeting, Warns Inflation May Not Hit Target Until 2028",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9US1ZPb1RPUnFxeVp1MFAwQnF0dG12VFFBRVdYOHdwVXpNd29FYmthYnV0ZE1nN0lOU25zRklLYl92NENwVUNLcGZTd3NpZGdhOHRFVEk4RVNCWHJ2aTJWOFFYUDJqejIzRlNKVDRhcjM3N21xeUE?oc=5"
+      "topic": "macro",
+      "title": "Anthropic's text watermarks signal new front in AI detection",
+      "link": "https://www.axios.com/2026/08/12/anthropic-claude-watermarks-ai-detection"
     },
     {
-      "topic": "economy",
-      "title": "UNIFI Communications, Syrian Telecom, and CYTA Sign Landmark UGARIT 2 Submarine Cable Agreement",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV_5cUxOVDRqSWp6cHUzbklMLWNlOTc1ZTJBTGRfN1M1cU5KQ0FGa1l1SkRYel92X1pTdVBoeVdqMFlxLVhHUnFUb3V0Q3o2eVRGT1VZT3VoNGpQSEZpRUlWbU9wQ2pKb2ZlblFhTFpZcHdJMGNvSjVtLUl2c0IyWEpSRmcxRk9UUE9Denpfdi0tSTRfOTluZjU4UldJTTRiMWQ3SGpNbHpKMEFXS1VwU3c1WWFNeFRDX3VhQVhGM2prSDdRYVA5MDJZRVlZNUc1U0M5TkdtOGNLVkZxU3l1NHFNRGZPdElMZVU4N0dOQmlRRkVUX1JMTFNMckJvNGtaclNkZF93S2VCdkgyRHNIZkF5MXQzOFE5ZDBsSUE4TmRMVjFfSUoteEZnM1NyNHNNckHSRT9ZaEJ6WTJhTU9kV1JRV0kzd1p0OUFFR3EzWlE?oc=5"
-    },
-    {
-      "topic": "ai",
-      "title": "Stanford AI Creates Synthetic Viruses in Research First",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV_5cUxNS3FLeExqd1NtZUlPc29tZ0trMnhSM2dLZE5rb29pYUZNLUFKenpfaXowbTFkQmNUdkExLVVNRUlTbkw5eko1UktySlRNZDExcXA1MzI1NWlENk55N01FOGQ4VlNlQ2NNNENyYzM3V3F5djh5YmZhQno3Z0N6UE90MWl6QzRKX0Q2RFdfWUJGcGRIaGxlNmc?oc=5"
+      "topic": "macro",
+      "title": "US CPI Data Releasing Today: Why July inflation numbers could trigger a rate hike or cut debate",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVW03VS15T2wyX1JPcFFXSll6ZzZKano1ckMwYnp1WVVkVE96Y3dKbFRFaTZuYWlfYVI2NVdubWlfdFZiWXlySVEyRzJHUW9MWWRkUEJMUVdBTzlRbzlUX3ZTMzJJTlVBRExjeURqeTNIZlRVNDgwWHdvbktvY292a0VGbmxVYjlwNU1wTFFjVURmUEVEWkY4OVRpNkdKUmZaOEllMmwzVS04Wi0tNUZ2aWEtanQ3cFZMU05PRjdqNnVYVUJPbmN0bThnTDRIMzJndTdEeTRGZDczYzRNTVHSAeQBQVVfeXFMTllDSEIwczA5RXljclhWSDRNV1l5RW5UTUxxYzBScFVuRUY1MS16dGlubHVETGREVi1YbHpCZGJoODVxb2NZSGdjY0pwN2I1Q19JaGppRm1DMzg1RUVrZUpYNzlkUFExMVVHWkloTzRSd2tvMHBqWUhtZ2xPSFZ1SHA5REhGN1JzMV9tZzhCa3FRaE93cENESUVwM1RodWEtYnBfczhBblJSRFdoUDVFYnphZDk2NVI0ZnlIMUlyM1FmaHFRX20tOWJmVWdEQVloc3Z4d0RISFc1dFJQaVFlOERWNXli?oc=5"
     },
     {
       "topic": "ai",
-      "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
-      "link": "https://arxiv.org/abs/2608.09902v1"
+      "title": "OpenAI\u2019s hacking AI completes 95% of exploit chains \u2014 the standard model does 1.5%",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOREg1TWxqdDdmX0NCQ1lsN1Y0WEZKbEI5aW5nWHRmS2ZJTGloNzhTNHE4SnRqZkxZcXRBTWFMT19GYnlDNTFqVUZlb09WV0VhTWNOTWd2X0RyV1ZsSHBlTjkxbkdNSWJnbXZhX1B3TnVFSjV6Nmo3R0wzZXRWVnY5YUg1OVZjTG9fQng4SHZKc3F2cDg?oc=5"
+    },
+    {
+      "topic": "ai",
+      "title": "Runaway OpenAI Agent Hits Hugging Face and Exposes AI Guardrail Gaps",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YZWcxOURrVUU5SmtpbTBhbnZfeVNhUDF6WC1JUFpqWUhXZFN6VTc1NU85Qks1VGNBRFN0MVE4dFNJeFp0SlRmTHNBMk9Sd1o2RjZFNXB6cWk0Ti15RWI0bE9USGJzOWxE?oc=5"
     },
     {
       "topic": "startups",
-      "title": "Canton Network Raises $355M From a16z and Abu Dhabi Fund",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV_5cUxNcjVweGFmRmFCMUdzM3V6bUVMSEFPcVF5dGhvQWI5WURtVk5YbVFTOUZ4ckNxR0JQazE2NzJUM3JLdkhaSmh3a3g0UlJSZUp5d1lETUY4WVhwVmVCUU1IajNNOVl1N09DMVMzUWF2N2pNU2dvTk9yZGtwQzY2bDU2M1lPUVF6WjBLckllVjA9UERkdHBXSU1JRks5Sld1dmF4ZFpwcS1B?oc=5"
+      "title": "OpenAI COO Brad Lightcap to Depart, Launch New Venture",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0oxb09NXzItTXdyM19TOGphcjA0eWVObGhJTDI0VGk3YjZYYUdZblBSTzRtNTdfNW5kSHZmYmZESTFSZndKNk11MXM3NUNYRWdnU21xOVgyTG1ZX0wtd2Q5JnZoWHlNNTNUX25jUG5Da2pNR2dYbzFXU1NYb3NKeEFZYkRVYlU1bW9mTk9pQ0lUbGNwRzZJ?oc=5"
     },
     {
       "topic": "startups",
-      "title": "Discovered Materials Raises $9M Seed to Hunt Cooler Chip Materials With AI Agents",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QbHV6YW1VeEphVnpUSmE2QlRldk9odFpGZVotLUw1WWxvbUxmT01zTEp4OWpDUWI4LTdTUlJkYm5ITmJhaWNkNW9FUGhIN1NUWnZj?oc=5"
+      "title": "Axle, an insurance verification automation platform, secures $17.5 million in funding",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zQ1pVZ243WTZ3djZmcGF1cEtKaHY4OEttdkdqM2dXeUxYTGk2TmtQMzlEUDZlaE1Cc0NraW1ra1Z4R3k1cjNOM2lqcXJuU2VvVHNBNXFYT0Y3ODhNa3BkU1dhVVZmRkd1cUZqR3Y5a1didTNBcnYwZkZB?oc=5"
     },
     {
       "topic": "creative",
-      "title": "Danny Boyle\u2019s Rupert Murdoch Feature 'Ink' Sets Winter Theatrical Debut Ahead of Netflix Release",
-      "link": "https://hypebeast.com/2026/8/danny-boyles-rupert-murdoch-feature-ink-sets-winter-theatrical-debut-netflix-release-info"
+      "title": "'Assassin's Creed' Creator's '1666: Amsterdam' Sets Early Access Release Date",
+      "link": "https://hypebeast.com/2026/8/assassins-creed-creator-1666-amsterdam-sets-early-access-release-date"
+    },
+    {
+      "topic": "creative",
+      "title": "Anne Hathaway Descends Into Darkness in Eerie Official Trailer for 'Verity'",
+      "link": "https://hypebeast.com/2026/8/amazon-mgm-studios-anne-hathaway-josh-hartnett-dakota-johnson-verity-psychological-thriller-official-trailer"
     }
   ]
 }
