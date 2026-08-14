@@ -1,60 +1,70 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "selected": [
     {
       "topic": "pharma",
-      "title": "Intensive BP-Lowering Cuts Recurrent Stroke Risk 38%",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmVXY25KMDFXVjRwTVpaZzhVbmcwMWZfRDEtQlgwSUVpT2VqdlpzUWJjTVFkaGhUZWZZSHZZOWNDdFNLS1BhWTl1Wko3WGdsbDRURWN2aE1GdF83NjI5RTdJVFktdElTRHhvV0NiY0ViNUR2QU9tYnFCQWxCSXFZajc2ZGI5QQ?oc=5"
+      "title": "An AI-Health infrastructure for the Nordic region: technical foundations, data assets, and a roadmap for deployment",
+      "link": "https://www.nature.com/articles/s41591-026-04575-4"
     },
     {
       "topic": "pharma",
-      "title": "Sodium Bicarbonate Fails to Improve Survival or Kidney Outcomes in Critical Illness: SODa-BIC Trial Finds",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLVZ1cnppbGtHX0tPbXhiQk9WMFJKYVR2eDl5S3BETmJSMDZ0eVRDOTZIYlBrNDJSdTdjT0gzTGcyajk2bXQ4ZGlNVkZHU3ladmFlTDB6Ymt4Rlo4dlF4VHU2Mk9pZWRuanNha3YyN0tZWEpKeFM3amFLc1duTGc3M0x6Q0xranNVYTNTdnYzaTdOVlFkbW5VNWVuTzN0T1_PqcG2RDzhpgd8z8vNYm2afBDpZX4gkdPUlxRX6We6oABZXLMRbGrEtwRtPRF5gGtLL8DwzKEQYNW45EdIB9AFBVV95cUxQU2JWZndLV2IyWjNFOGZXdnppWFNIdmtaUE5LRFNUdHJQUy1WSDA4bm1JbDRoVmRTU0c5ZFNkeXNIVUFRX0ZTSVZNdlRPVTVuMWU1QXlXWVZSdFpDLUljSldjMlJ4T2NfeTVqNDBCVlRjajlLX25pX0dSY2c0Ql9QRmFmX3JZNTNWNktWa3hwWEJVYXVnMEEtbUQyUnRZMl80ZU8wbG1TRFJBR0ZOOUxiMkhZRWFuVHJ6V2xOeEJhV29sVWJGaUFzZlM5TkxjdDlQaXFGZUxYdkptblk5VFYyYWU0TW5OQ2ZDYjNxRkVOZUcyazVU?oc=5"
+      "title": "ArkBio's RSV Antiviral Drug Ziresovir Receives FDA Approval for Phase II Clinical Trial",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdjRrbmU2UjFXenk2RmttNW0yYWRBNjNvS3RzMERPN1VHNlhLckwwT21TWW5pbVVMMGFJbmZZQlljZ1FvVWQwMHZaTGV0ZERqdHBHRkJDV2FaTVRCY0txR1FMV0w2YXhpT2NYUFNRVjRfdnd2NkF2ZUdaakRwelJvWE9JVm9pemloV3hEbmFB?oc=5"
     },
     {
       "topic": "pharma",
-      "title": "What JAMA\u2019s Causal Language Guidance Actually Says About Difference-in-Differences Studies",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUZZR1FQMTYzR193YTZualAtZjJkVDlTQzl4bDZ4cUZuRm5iWXdrRE96TkFEOExiNmJzWXZhaDZ1RWNZbzNRQVo2bXhzY1pRcjJWeEVvZ0lYWlRnbzVTNHZmLWQtRlQtRFl3WGhKZ05HRjZLb3V5V0NERWtTeXFKZXN1WHpGaHUySDRlSFREOUEtQThsOVMxOUZBSXNwSTNnYV84UUowTXZjTTZway1iRVNXc0EwNWlNWEV1al_dLHM0aXBESFlTaFNkX25VT293?oc=5"
+      "title": "AI Clinical Decision Support Is Everywhere. The Evidence Base Is Not.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlZVQ0FrZlVSUzBUd3FoYk9qNHlKVGxwd1hpMVo5NXZCcTNDdVlwVGtMRmVkOG13Z25vTktFbEU1ZW1kUkZzc29reDR4eWJtZURMbW12a3EtYmFIb01NZU5OeWxlVmw5VmZIbFptV0dlRENOYUhfNHZhNXBFcGx5bk94N1NYSmtON0tKVHQwd0JjbE5pQVVFMjVsdmphT1A4RW56ZEpTMGdjWklQY1VpUFNocWgybDdlR2JJblhyV25TcjMxM1J1d2VGMEs?oc=5"
     },
     {
       "topic": "macro",
-      "title": "July CPI Cools to 3.4%, But Fed Hold Still Favored for September",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQenVlSkxqNkxrX3N1Z1pfc1_dNTZIWll0M2kzR051QTU3Wi1HM2UxYm5KZzdTeFMxVGFla0xLRTBFRW8wZ3RzaFlORmJtZmNSMUVhYTJKNGIzRlFBeDhlSHBoS3Nza0ZUZ0h4MHBQY0FCdHcyOTVqY1FOMU1ubHBwdkVySFJHb3JzSW5xeHhrWFo?oc=5"
+      "title": "Yield on 30-Year U.S. Treasury Hits 25-Year High on Inflation Fears",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVdVdWwzZGFIM0x3RC1jcXZUdDBiSXllUGp4Wmpmd1ZHTjRnS0ttZWRTRFBzeGZKVHpnbk5kMEZzbWR6bnNGNWFFUVZlOW5fSk1JU0RLQmtSMWxfbW4tNnBQRGpuQ2JtMTFkME5MMF90ZXNsTWI2U1JOdm1kZGFZWmdrVkdmZDl0bVE5Q2VDQnRDNW1ZNU1IVUMxU1duNVlGdnFvRHVMUWMwM0E?oc=5"
+    },
+    {
+      "topic": "macro",
+      "title": "US Treasury Unveils Unprecedented Economic Blockade and Crypto Crackdown on Iran",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLUFaUGJrZG5VbWVtWjNSRUtKUGpWOWRvaWUzQnUySXVzR0hnei1sTFRqVzNTZGpZOHhvUk1uZXF5MGNwRXd2Wm5JbHdSZzhxdDBrMmUtSFN2VzRIS1VMTldUbFpYX293NXlnWkhwcVlKeV84S3ZLOHY0aHRxbVZjeGFJa1k4dXE0RnVIOXVRMFFVRlc4Rzk0RVZLcHhHbWZrdkM1TENUMzlPSEU?oc=5"
     },
     {
       "topic": "ai",
-      "title": "297-Day Post-Launch Recall of OpenAI's Atlas Robot: Key Shifts in OpenAI's Product Strategy & Future Development",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15UlMtQTBLekNpNW45b0YzZTBSeGlDdmRjbnk0RWdVQVgtMWVtWVpKdDZxREgtc3Qta2NXM3ctYnBIbU9aM1NOZHd5c2VEVGFJdDU0?oc=5"
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
     },
     {
       "topic": "ai",
-      "title": "OpenAI Delays Astra Launch Amid Rising Cybersecurity Threats",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnR0MWtzTEpkLUZqenU2ZDBfYVNmc3E4ZEY1bkxlZUtOSkdfSkU2blg1ZG1FcFlXSldQQmFSZ3puWjBmbmlnckxzUDhSVkQ0alh6X05TSzh0MTRSSmstZHNTWERoMUFwWGFGNVdXSldmaDJ6b3hiUHZmcUpyMXlzNlBEVjEwTXJZcW9tVTMweU1VZXNseEc3MHpBQW5ySG51bUE?oc=5"
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "link": "https://arxiv.org/abs/2608.13522v1"
     },
     {
       "topic": "ai",
-      "title": "OpenAI-Backed Thrive Holdings Raises $2 Billion at $12 Billion Valuation",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yczdJXzRCMzBMTlZXYTE1Mnc1YUR2N1lIRkRlckd3MW1yRzZHNHlVUWZNTjg5b1VLZ3NGOGZlVnlRZ2Y2S1RjZXhRVllOVTdWV3VqRzVpTzhlLXVKVUsyVmZBNVNRQ3lpTkcybklTY0Y0X3dkQXc?oc=5"
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "link": "https://arxiv.org/abs/2608.13560v1"
     },
     {
       "topic": "startups",
-      "title": "Blacksmith Raises $45M Series B from Peak XV Partners as AI-Generated Code Drives Demand for Faster Code Validation",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUmMxV2UySHpBWGJDTC1ra3VqSWZIc3h0RVctdFJLWFVQOGhwNzNIZnFDclRkcW9wYTJOc1l6THVvVmwyMEVWR2tvVkIxemZObEl5UWRkZHRYY0tfdmViRU1tOFhJYW5qTllSWlh1bEFvZVdONS1YWWY0Skw0VnpjT004Rmd0dV_VVWNMTEJCSGlwVFU3SFJvWlBQODRPQmE3dnEtM29JUk5WcHVfVElZbGxjYmZMMEFfWV_DX1ZHTGFVaXJIUmZieWRkUnptbWE5UjFGcmNiWG1FQkl3bVF6OFlMMmY2Z01kSTN2MzJXQldncXdoRW1Zay1jd1ZaUTQ?oc=5"
+      "title": "vals.ai raises $40M Series A led by Andreessen Horowitz",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWVPbTY0ZE5fYkM2QU5fbHlVbEo1ZVZkbG50M0ZYOU5MUTIycDlPTVp2VXRXTkl5cF9XZFFkOG9HZFl1bU5pM3dUeldFcVd1VjFhRGJCT045QWp3cThGSE93T0xyZFAxWXNKbllmY2pkdEZrY3V3RDRfb0JHc3pMS0lZUk13S1QwNmoxN2VFcTdHZw?oc=5"
     },
     {
       "topic": "startups",
-      "title": "River Markets Raises $8.5M to Build the First Prime Broker for Prediction Markets",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNTFzUnVaXzBNQVdDTHlhbEp1ckZIQ2lWWFNkTEVzbUpkanJWUVVVcnRYdFRIbUZGc2N4T1luZldpMkl1eVZuUndSNG11Y1U3NnZLdjZrN0V4VUZYSVdwZkExckxTNU1PUjcwek9rN2JOaG5LdUlxLVJXTGxESHd6N1c4cEZUUGxlOVc2Y2lyOERjT1FaMEtxZ2F6c2ZtcHNSU3MzWUxQWjdTNHRudDBKSmJwaU51LTlDUmRsVXZHZmhORHA4TUpjTV_SHUdNWlZ0UW16Z29hZU9Tc2RaX1BN?oc=5"
+      "title": "Yuno Raises $45M in Series B Funding",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xaXFaMXhnWGpyRFJjMW0xdmVIVFUtRkM0NFdobnBzWVg2NXVfME5GZ250NVdLYWZ0UDdDei1FTEZGZ1pRUV9xV3NDS01OYjhta3o0STNrRnBWczdfd19BVHN3aDRiNHZubzJGaE41WE1uSmpkNnlWYUp0d0c?oc=5"
     },
     {
       "topic": "creative",
-      "title": "SpaceXAI and Cursor Launch \u201cGrok Bot\u201d Autonomous AI Teammates Across Desktop and Mobile",
-      "link": "https://hypebeast.com/2026/8/spacexai-grok-bot-brings-autonomous-ai-teammates-to-desktop"
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
     },
     {
       "topic": "creative",
-      "title": "Warner Bros. Officially Confirms \u2018Hogwarts Legacy 2\u2019 Is in Development",
-      "link": "https://hypebeast.com/2026/8/warner-bros-hogwarts-legacy-sequel-game-confirmed-news"
+      "title": "How X\u2019s \u201cUnder the Hood\u201d Settings Feature Tackles Long-Standing Shadowban Rumors",
+      "link": "https://hypebeast.com/2026/8/x-expands-open-source-ranking-algorithm-with-new-tool"
+    },
+    {
+      "topic": "creative",
+      "title": "\u201cInstagzam?\u201d Internet Reacts to Instagram\u2019s Fresh New Text Logo",
+      "link": "https://hypebeast.com/2026/8/instagram-unveils-new-hybrid-wordmark-and-brand-update"
     }
   ]
 }
